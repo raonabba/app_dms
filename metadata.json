@@ -1,0 +1,10 @@
+{
+  "name": "Remix: 히어로 일과 체크리스트",
+  "description": "어린이의 씩씩한 아침 기상과 건강한 일과 완수를 돕는 게이미피케이션 기반 철배지 수집 체크리스트 (넷플릭스 스타일 다중 자녀 프로필 선택 기능 지원)",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
